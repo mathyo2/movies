@@ -1,0 +1,89 @@
+.the{
+    color: rgb(189, 162, 87);
+    text-align: center;
+    margin-left: -57px;
+    width:600px;
+   }
+img{
+    height: 220px;
+   transform: translate(00px 20px  );
+
+margin-top: -10px;
+
+margin-left:700px ;
+}
+hr{
+    border-color: rgb(70, 57, 3);
+    border-style: double ;
+}
+div{
+    height:50px;
+    background-color: white;
+   margin-right: 550px;
+   margin-left: 550px;
+}
+div h1{
+    color: rgb(190, 163, 163);
+text-align: center;
+
+    }
+    .ss{
+        text-align: center;
+        color: white;
+    }
+    .ee{
+        color: rgb(22, 104, 104);
+    }
+   
+   .image-container{
+   background-image:url(https://wallpapercg.com/download/the-godfather--19076.jpg) ;
+   background-size: cover;
+   height: 900px;
+   margin-left: 00px;
+   margin-right: 00px;
+   }
+   div h1 {
+    color: white;
+    text-align: left;
+    margin-left:60px;
+   
+   }
+   div pre{
+    color: white;
+    text-align: left;
+   }
+   video{
+   margin-left: 28%;
+   margin-right: auto;
+   }
+.tony{
+   background-image: url(https://img.goodfon.com/original/1920x1080/c/29/scarface-1983-tony-montana.jpg);
+    background-size: cover;
+   height: 900px;
+   margin-left: 00px;
+   margin-right: 00px;
+}
+.allp{
+    color: white;
+    text-align: left;
+    margin-left: 30px;
+}
+.erty{
+    color: white;
+    text-align: left;
+}
+.tyler{
+    background-image: url(https://images.fineartamerica.com/images/artworkimages/medium/3/tyler-durden-is-born-fight-club-joseph-oland.jpg);
+   background-size: cover;
+   height: 900px;
+   margin-left: 00px;
+   margin-right: 00px; 
+}
+.fight{
+     color: rgb(3, 2, 2);
+    text-align: left;
+}
+h3 pre{
+ color: rgb(3, 2, 2);
+    margin-left: -30px;
+}
